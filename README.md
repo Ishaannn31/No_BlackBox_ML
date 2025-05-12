@@ -6,7 +6,7 @@
 
 A JavaScript-based machine learning project where we build a drawing recognition system **from scratch** (no ML libraries). This phase covers data collection, processing, and visualization.
 
-**Course**: [YouTube Playlist](https://www.youtube.com/playlist?list=PLB0Tybl0UNfYoJE7ZwsBQoDIG4YN9ptyY) by Radu Mariescu-Istodor.
+**Course**: [YouTube Playlist](https://youtube.com/playlist?list=PLB0Tybl0UNfYe9aJXfWw-Dw_4VnFrqRC4&si=2rLKt9fr8THvSIF7) by Radu Mariescu-Istodor.
 
 ---
 
